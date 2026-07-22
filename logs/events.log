@@ -1,0 +1,18 @@
+2026-07-22 08:12:54,751 - app - INFO - Database connection successful
+2026-07-22 08:12:55,944 - app - INFO - Database connection successful
+2026-07-22 08:13:15,170 - app.api.routes - INFO - Запрос парсинга: source=dod, month=None, year=None
+2026-07-22 08:13:15,170 - app.api.routes - INFO - Запрос парсинга: source=dod, month=None, year=None
+2026-07-22 08:13:15,176 - app.api.routes - INFO - Начало парсинга дней открытых дверей
+2026-07-22 08:13:15,176 - app.api.routes - INFO - Начало парсинга дней открытых дверей
+2026-07-22 08:13:15,182 - app.parsers.dod_parser - INFO - Начинаем парсинг мероприятий ДОД
+2026-07-22 08:13:15,182 - app.parsers.dod_parser - INFO - Начинаем парсинг мероприятий ДОД
+2026-07-22 08:13:15,705 - app.parsers.dod_parser - INFO - Извлечено 19 мероприятий ДОД
+2026-07-22 08:13:15,705 - app.parsers.dod_parser - INFO - Извлечено 19 мероприятий ДОД
+2026-07-22 08:13:15,774 - app.parsers.dod_parser - INFO - Сохранено 19 новых и обновлено 0 мероприятий
+2026-07-22 08:13:15,774 - app.parsers.dod_parser - INFO - Сохранено 19 новых и обновлено 0 мероприятий
+2026-07-22 08:14:12,227 - app - INFO - Database connection successful
+2026-07-22 08:18:00,591 - app - INFO - Database connection successful
+2026-07-22 08:19:24,920 - app - INFO - Database connection successful
+2026-07-22 08:19:45,378 - app - INFO - Database connection successful
+2026-07-22 08:19:51,339 - app - INFO - Database connection successful
+2026-07-22 08:21:03,322 - app - INFO - Database connection successful

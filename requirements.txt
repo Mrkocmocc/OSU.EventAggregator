@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-CORS
+requests
+beautifulsoup4
+lxml
+psycopg2-binary
+python-dotenv
+APScheduler
